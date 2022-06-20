@@ -4,6 +4,7 @@ cask "ukrainian-unicode-layout" do
 
   url "https://github.com/korzhyk/macOS-Ukrainian-Unicode-Layout/archive/#{version}.tar.gz"
   name "Ukrainian Unicode Layout"
+  desc "Custom keyboard layout for macOS based on Ukrainian Unicode"
   homepage "https://github.com/korzhyk/OSX-Ukrainian-Unicode-Layout"
 
   artifact "macOS-Ukrainian-Unicode-Layout-#{version}",
